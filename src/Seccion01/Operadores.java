@@ -1,6 +1,8 @@
+package Seccion01;
+
 public class Operadores {
     public static void main(String[] args) {
-        //Operadores Aritmeticos
+        //Seccion01.Operadores Aritmeticos
 
         int suma = 10 +20;
         System.out.println("suma = " + suma);

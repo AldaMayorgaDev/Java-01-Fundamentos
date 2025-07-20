@@ -1,3 +1,5 @@
+package Seccion01;
+
 /**
  * Se pueden tener varias clases en un mismo archivo
  * pero si hay una con public, ese archivo se debe llamar

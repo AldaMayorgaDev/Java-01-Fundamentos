@@ -1,3 +1,5 @@
+package Seccion01;
+
 public class Identificadores {
     public static void main(String[] args) {
 

@@ -1,6 +1,8 @@
+package Seccion01;
+
 public class IncrementosDescrementos {
     public static void main(String[] args) {
-        //Operadores de Incremento y Decremento
+        //Seccion01.Operadores de Incremento y Decremento
         int count = 0;
         count++; //Incremanta en 1 despues de pasar esta linea
         count+=5; //Incremanta en 5

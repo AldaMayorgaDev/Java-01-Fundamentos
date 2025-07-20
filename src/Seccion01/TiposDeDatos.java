@@ -1,3 +1,5 @@
+package Seccion01;
+
 class TiposDeDatos {
     public static void main(String[] args) {
 

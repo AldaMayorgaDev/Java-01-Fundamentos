@@ -1,7 +1,9 @@
+package Seccion01;
+
 public class OperadoresDeComparacion {
     public static void main(String[] args) {
 
-        //Operadores de Comparacion
+        //Seccion01.Operadores de Comparacion
 
         double sueldo1 = 2000.56d;
         double sueldo2 = 4000.53d;
