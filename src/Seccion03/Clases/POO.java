@@ -1,4 +1,4 @@
-package Seccion03;
+package Seccion03.Clases;
 
 public class POO {
     public static void main(String[] args) {
